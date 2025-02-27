@@ -8,6 +8,11 @@ Github enables one to store files or codes for future reference.. it acts as a b
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 open github on the web browser .
 enter your credentials of your github account.
+then you login in your account
+Then click button at the upper right corner and create a new repo.
+Enter new name.
+chose whether its public or private.
+then create the repo.
 
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
@@ -25,6 +30,10 @@ Once a private repo is created it cannot be eddited by any body else besides the
 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+install git in your machine.
+configure git using commands in your powershell using cmd.
+the commands are git -- global user.name 
+                 git -- global user.email
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 

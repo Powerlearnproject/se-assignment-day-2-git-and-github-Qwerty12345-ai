@@ -16,7 +16,13 @@ enables one to make changes at the repo after identifying it.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 A public repo is the one in which one allows to go public with you it hence one chooses to go public with it.
-A public repo enables the Owe
+A public repo enables the One to share the repo online.
+A public repo enables one to make changes after sharing it online.
+
+A private repo is a repo that in which one creates from r private use and cannot be shared.
+A private repo does not allow one to share.
+Once a private repo is created it cannot be eddited by any body else besides the creator... since it can't be shared.
+
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 

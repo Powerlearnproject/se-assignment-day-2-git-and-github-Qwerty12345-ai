@@ -2,12 +2,21 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18434313&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+version control system ebables one to track changes of a specific code ... its like a time machine which enables one to track errors and correct bugs ..
+Github enables one to store files or codes for future reference.. it acts as a back up for ones project and it enables one to share his or her projects online .in short its like a social media for code.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+open github on the web browser .
+enter your credentials of your github account.
+
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
+enables one to identify the repo thats is supposed to read and edited.
+enables one to make changes at the repo after identifying it.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
+A public repo is the one in which one allows to go public with you it hence one chooses to go public with it.
+A public repo enables the Owe
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
